@@ -20,8 +20,8 @@ cargo build --release
 
 ### GitHub Releases
 
-```
-wget illfinishthislater 
+```sh
+wget https://github.com/blootu/sciadv/releases/download/v0.1.0/sciadv-0.1.0-amd64.tar.gz
 ```
 
 ## License
